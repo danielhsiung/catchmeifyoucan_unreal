@@ -1,0 +1,132 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Eyebrows
+Ns 80.277763
+Ka 1.000000 1.000000 1.000000
+Kd 0.032102 0.009703 0.003877
+Ks 0.541667 0.541667 0.541667
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Flesh
+Ns 349.173584
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Hair
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd crying-child/source/Evan Afton/Schermafbeelding 2022-02-05 124714.png
+map_d crying-child/source/Evan Afton/Schermafbeelding 2022-02-05 124714.png
+
+newmtl Iris
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd crying-child/source/Evan Afton/waio.png
+
+newmtl Laces
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Leather
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd crying-child/source/Evan Afton/Schermafbeelding 2022-02-05 124855.png
+map_d crying-child/source/Evan Afton/Schermafbeelding 2022-02-05 124855.png
+
+newmtl Nails
+Ns 380.277802
+Ka 1.000000 1.000000 1.000000
+Kd 0.626663 0.377305 0.254331
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Rubber
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd crying-child/source/Evan Afton/Schermafbeelding 2022-02-05 124924.png
+map_d crying-child/source/Evan Afton/Schermafbeelding 2022-02-05 124924.png
+
+newmtl Shorts
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd crying-child/source/Evan Afton/Shorts_Base_Color.png
+
+newmtl Skin
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd crying-child/source/Evan Afton/Skin_Base_Color.png.001.png
+map_Ns crying-child/source/Evan Afton/Skin_Roughness.png.001.png
+
+newmtl Socks
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl TShirt
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd crying-child/source/Evan Afton/TShirt_Base_Color.png
+
+newmtl Teeth
+Ns 317.685944
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.647431 0.543890
+Ks 0.513636 0.513636 0.513636
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
